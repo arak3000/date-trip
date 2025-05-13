@@ -10,7 +10,7 @@ export default function MainPage() {
     <div className="flex flex-col h-screen w-screen">
       <div className="flex-1 flex justify-center">
         <div className="w-full h-full flex flex-col mx-auto" style={{margin:"1rem"}}>
-          <header className="p-4 bg-white shadow text-lg font-bold">
+          <header className="p-4 bg-white shadow text-xl font-bold">
             DateTrip
           </header>
 
